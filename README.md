@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&pause=1000&color=16F74B&width=435&lines=I'm+CHAMATH+INDUWARA)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=60&duration=3500&pause=2000&color=33FF41&background=0F0F0F00&width=3000&height=100&lines=I'm+Chamath+Induwara%2C+and+I'm+passionately+dedicated+to+full-stack+development.)](https://git.io/typing-svg)
 🎓 I recently completed my academic journey as an Electrical Engineer at the University of Moratuwa, Sri Lanka, and I am currently seeking employment as a full-stack developer. 🚀
+
 ![github-contribution-grid-snake](github-user-contribution.svg)
+
 ### Reach me on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/chamath-induwara/)
