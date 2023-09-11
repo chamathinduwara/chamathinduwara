@@ -2,7 +2,7 @@
 
 🎓 I recently completed my academic journey as an Electrical Engineer at the University of Moratuwa, Sri Lanka, and I am currently seeking employment as a full-stack developer. 🚀
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](github-user-contribution.svg)
 
 ### Reach me on:
 
