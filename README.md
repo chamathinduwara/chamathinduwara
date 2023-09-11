@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&pause=1000&color=16F74B&width=435&lines=I'm+CHAMATH+INDUWARA)](https://git.io/typing-svg)
 
 🎓 I recently completed my academic journey as an Electrical Engineer at the University of Moratuwa, Sri Lanka, and I am currently seeking employment as a full-stack developer. 🚀
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 ### Reach me on:
 
