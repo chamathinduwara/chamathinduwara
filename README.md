@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&pause=1000&color=16F74B&width=435&lines=I'm+CHAMATH+INDUWARA)](https://git.io/typing-svg)
 
-
 🎓 I recently completed my academic journey as an Electrical Engineer at the University of Moratuwa, Sri Lanka, and I am currently seeking employment as a full-stack developer. 🚀
 
 ### Reach me on:
@@ -44,3 +43,5 @@
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chamathinduwara&theme=highcontrast)](https://git.io/streak-stats)
