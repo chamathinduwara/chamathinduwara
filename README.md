@@ -8,3 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/chamath-induwara/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csschamathinduwara@gmail.com)
 
+### Top Technologies:
+## Programing languages
+## Frameworks, Platforms and Libraries
+## Databases
+## Hosting
+## Tools
+## Version Control
