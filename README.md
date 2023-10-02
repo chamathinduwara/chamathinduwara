@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=60&duration=3500&pause=2000&color=33FF41&background=0F0F0F00&width=3000&height=100&lines=I'm+Chamath+Induwara%2C+and+I'm+passionately+dedicated+to+full-stack+development.)](https://git.io/typing-svg)
-🎓 I recently completed my academic journey as an Electrical Engineer at the University of Moratuwa, Sri Lanka, and I am currently seeking employment as a full-stack developer. 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=60&duration=3500&pause=2000&color=33FF41&background=0F0F0F00&width=3000&height=100&lines=I'm+Chamath+Induwara%2C+and+I'm+passionately+dedicated+to+Software+development.)](https://git.io/typing-svg)
+🎓 I recently completed my academic journey as an Electrical Engineer at the University of Moratuwa, Sri Lanka, and I am currently seeking employment as a Software developer. 🚀
 
 ![github-contribution-grid-snake](github-user-contribution.svg)
 
