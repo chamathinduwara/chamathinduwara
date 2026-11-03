@@ -1,6 +1,6 @@
 ## Hi, I'm Chamath 👋
 
-DevOps engineer at GTN, a global fintech, based in Sri Lanka. I automate AWS infrastructure and delivery for a multi-region investing and trading platform: Terraform, GitLab CI/CD and containers, from dev environments through three production regions.
+DevOps engineer at a global fintech, based in Sri Lanka. I automate AWS infrastructure and delivery for a multi-region investing and trading platform: Terraform, GitLab CI/CD and containers, from dev environments through three production regions.
 
 - 🏗️ Built ECS platforms as reusable Terraform modules and took them from QA to production across regions and DR
 - ⚡ Cut a core application's deploy time by ~80% with a rebuilt CI pipeline and purpose-built build image
